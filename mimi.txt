@@ -5,5 +5,9 @@ alksla
 almslñ
 
 
+<<<<<<< HEAD
 
 Noooooooooooo
+=======
+Yoooooo
+>>>>>>> a91441159b8b22bf5b2574157d5447edd064e95a
